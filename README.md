@@ -32,3 +32,11 @@ It's important to keep in mind that UX Design is a process, and wireframing will
 
 ## Prepare Your Research for Quick Reference
 
+During the course of your research, you are going to come across a lot of information, some of it is going to be useful and some of it will not be useful, and you're not going to be able to retain all of it. So, it would be a good idea to come up with a quick reference guide or a cheat sheet, with your business and user goals, your personas, use cases, and some of the coolest features you came across in your competitor's reasearch. Also, keep in mind a few choice quotes from your audience, which will help you focus your attention on user experience, which is never forget what you're designing.   
+
+### Make Sure You Have Your User Flow Mapped Out
+
+It's very important to have an idea of how many screens you'll need to produce, and the flow you expect the user to follow; otherwise, your wireframing is going to get very messy very quickly. It's also important to have a very firm concept of where your users are coming from (which marketing channel and off the back of what messaging), and where you need them to end up. Being well versed in UX Vocabulary, will familiarize you with terms such as user flows and information architecture. Good information architecture will ensure that your users are self sufficient (they won't call customer service with questions about something that is very simple), less frustrated with your product (this will build trust and a good relationship), and lower drop off and drop out rates. This will mean more business and more revenue for you. 
+
+### Draft, Don't Draw. Sketch, Don't Illustrate
+
