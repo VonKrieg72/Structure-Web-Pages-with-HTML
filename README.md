@@ -40,3 +40,44 @@ It's very important to have an idea of how many screens you'll need to produce, 
 
 ### Draft, Don't Draw. Sketch, Don't Illustrate
 
+At this point, after completing the previous steps, you can now start putting your ideas down on paper. It's important to mention that you shouldn't worry about colors or aesthetics, leave it to your UI designer to deal with that, or if you happen to be the designer as well, then just leave that task for later. At this point, you are outlining and representing features and formats, not illustrating in fine detail. It would be a good idea, to sketch your ideas down with a marker pen or a sharpie, because it prevents you from focusing too much on detail. As you are sketching down your ideas, ask yourself these three questions:
+
+-How can you organize the content to support your user's goals
+
+-Which information should be most prominent?, Where should your main message go? What should the user see first when arriving at the page?
+
+-What will the user expect to see on certain areas of the page?
+
+-Which buttons or touch points does the user need to complete the desired action?
+
+### Add Some Detail and Get Testing
+
+At this point your next step in the process would be to add some informational details to your wireframe for its upgrade, and get it to prototype mode. Your wireframe is still a skeleton at this point, so you want to start adding detail to it, and start building it up. Keep the following things in mind:
+
+**-Usability** Conventions are things such as navigation bars, search boxes, etc. You want to figure out where on your web page you're going to place these things. 
+
+-You want your wording or instructions to be simple and not overly complex for calls to action.
+
+**-Trust building elements:** What do you need to build trust in your customers and where would you find these elements.
+
+-Tooltips to indicate any functionality that could be included in a prototype transition.
+
+At this point you are ready to start coducting user tests, which in most cases will be your own colleagues. Some tools that you can utilize during this testing period are **Usability Hub** to preference test screens and collect qualitative feedback, as well as **Prott**, which you can use to test and check the understanding of the basic user flow. With Prott, you can also photograph and upload your hand sketched wireframes, and then connect them to user button overlays. 
+
+**Start Turning Your Wireframes into Prototypes**
+
+Once you've analyzed all of your feedback from your first prototype, you can start building up your high fidelity prototype. During this phase you can utilize tools such as **Proto io, Adobe XD, Framer, Sketch, and Figma.** Sketch and Figma are the most well known, So, once you've developed your wireframes, you can import them into **InVision,** which is an industyr leading prototype tool. In the InVision tool you'll be able to interlink your screens for another round of high fidelity user testing. 
+
+## How to Make Your Wireframe Good: Three Key Principals
+
+### Clarity 
+
+Your wireframe should answer the following questions: What the site page is, Waht the user can do there, Does your wireframe satisfy their needs. 
+
+### Confidence
+
+You want to make sure that your site page is easy enough to navigate and understand, by the users. If your site page design is unpredictable, or has buttons or boxes in unexpected places, user confidence in your design will diminish. Ensuring that your site page is easy to navigate and clear calls to action options are available will increase user confidence in your brand. 
+
+### Simplicity is Key
+
+You want your users to be able to navigate their way through your site page design, with as little fancy stuff as possible. Having too much information, copy, or links can be distracting to the user, and this will have a negative affect on your user's ability to acheive their goals with their website. 
