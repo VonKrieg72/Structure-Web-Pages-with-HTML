@@ -81,3 +81,82 @@ You want to make sure that your site page is easy enough to navigate and underst
 ### Simplicity is Key
 
 You want your users to be able to navigate their way through your site page design, with as little fancy stuff as possible. Having too much information, copy, or links can be distracting to the user, and this will have a negative affect on your user's ability to acheive their goals with their website. 
+
+## HTML Basics
+
+HTML stands for Hypertext Markup Language, and it is the language or code that is used to define the structure of your content. HTML is composed of elements, which are used to enclose or wrap around the content in order to make it appear in a certain way. For any written text, sentences or paragraphs that you would like to appear by themselves, you would enclose that text, or wrap that text in an opening and closing tag. For example, if you wanted to write the following sentence: *My cat is grumpy,* and make it stand by itself, you would write it in html as:
+
+<p> My cat is very grumpy </p>
+
+### Anatomy of an HTML Element
+
+An HTML element made up of
+
+**-Opening Tag**- This consists of the name of the element (p in the above example) enclosed in an opening and closing angle brackets. This states where the element begins or starts to take effect.
+
+**-Closing Tag**- This is the same as the opening tag except this one has a forward slash, before the element name. This states where the element ends. *(Its important to make sure that you don't forget to use the closing tag, or you may get unexpected results)*
+
+**-The Content**- The words, sentences, or paragraphs of the element.
+
+**-The Element**- The opening tag, closing tag, and content all combine together to form the element.
+
+**-Attributes**- Extra information about the element that you don't want to appear in the actual content. 
+
+### Nesting Elements
+
+When you put an element inside of another element, it is called nesting. In the above example if you wanted to state that your cat is **very** grumply, you would wrap the word very in a **<strong>** element, to strongly emphasize the word.
+  
+  <p>My cat is <strong>very</strong> grumpy.</p>
+  
+  ### Empty Elements
+  
+  Some elements have no content and are known as **Empty Elements.** Image elements don't need to wrap around content to affect it. For example:
+  
+  <img src="images/firefox-icon.png" alt="My test image">
+  
+  As you can see in the image element there is no </img> at the end to close out the element.
+  
+  ### Anatomy of an HTML Document
+  
+  In HTML individual elements will combine to form an entire HTML page.
+  
+  <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="My test image">
+  </body>
+</html>
+
+**<!DOCTYPE html>**- This doesn't do much. It's just needed to make sure the document behaves correctly.
+
+**<html></html>**- Sometimes referred to as the root element, This element wraps all the content on the entire page.
+
+**<head></head>**- This element acts as a container for all the stuff you want to include on the HTML page. This includes things like keywords and a page description that you want to appear in seardh results.
+
+**<meta charset="utf-8">**- This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. It would be a good idea to set this, in order to help avoid some problems later on. 
+
+**<title></title>**- This element sets the title of your page, which is the title that appears in the browser tab, the page is loaded in. 
+
+**<body></body>**- This contains all the content that you want to show to web users when they visit your page. 
+
+### Images
+
+This element embeds an image into your page in the position it appears. It does this via the src (source) attribute, which contains the path to our image.
+
+<img src="images/firefox-icon.png" alt="My test image">
+
+It's important to keep in mind that image elements dont have </img> to close it out.
+
+### Links
+
+<a>Mozilla Manifesto</a>
+
+<a href="">Mozilla Manifesto</a>
+
+<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+
+If you want to create a link in HTML, You would first wrap the text in <a></a>. Then you would give <a> element an href attribute. Then you would fill in the value of the attribute with the web address, that you want the link to link to. Make sure you include https or http or you might get un-expected results. 
