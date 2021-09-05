@@ -160,3 +160,43 @@ It's important to keep in mind that image elements dont have </img> to close it 
 <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
 
 If you want to create a link in HTML, You would first wrap the text in <a></a>. Then you would give <a> element an href attribute. Then you would fill in the value of the attribute with the web address, that you want the link to link to. Make sure you include https or http or you might get un-expected results. 
+
+  ## Semantics
+  
+  Semantics in coding refers to the meaning of a piece of code, such as what effect running that line of JavaScript have? or what purpose or role does that HTML element have?
+  
+  ### Semantics in JavaScript
+  
+  In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build ('Peach'), or createLiWithContent('Peach')
+  
+  ### Semantics in CSS
+  
+  In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
+  
+  ### Semantics in HTML
+  
+  In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role of a top level heading on your page. 
+  
+  ## HTML: HyperText Markup Language
+  
+  **HTML** is the most basic building block of the web. HTML defines the meaning and structure of web content. Other languages besides HTML, such as CSS and JavaScript are used generally to describe a web page's appearance/presentation or functionality/behavior.
+  
+  Here are some key resources if you want to get more familiar with HTML
+  
+  -HTML Introduction
+  
+  -HTML Tutorials
+  
+  -HTML Reference
+  
+  Here are some tutorials in HTML if you are a beginner
+  
+  -Introduction to HTML
+  
+  -Multimedia and Embedding
+  
+  -HTML Tables
+  
+  -HTML Forms
+  
+  -Use HTML to solve common problems
